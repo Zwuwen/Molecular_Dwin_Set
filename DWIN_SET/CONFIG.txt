@@ -3,5 +3,5 @@ R2=0C      ;Sys_CFG
 R3=5A      ;
 RA=A5      ;
 STOP_DWIN_OS;
-RC=30      ;
-
+RC=10      ;
+SD_LOCK_6000_12345678
